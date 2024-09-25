@@ -1,1 +1,33 @@
 # CodeAlpha_DataScience_IFC-SPUP-UAWP
+# CodeAlpha_DataScience_IFC-SPUP-UAWP
+TASK-1
+IRIS FLOWER CLASSIFICATION :
+CODES EXPLONATION
+Logical Flow: The code follows a clear and logical sequence, from loading the data to visualizing the results.
+Standard Preprocessing: You’ve applied standard preprocessing techniques like train-test splitting and feature scaling, which are essential for ensuring that the model performs well.
+Random Forest Classifier: Random Forest is a robust and widely used classifier that generally provides good results with minimal tuning.
+Model Evaluation: You’ve included both a confusion matrix and a classification report, which provide comprehensive insights into the model's performance.
+Visualization: The heatmap of the confusion matrix is a great addition, making it easier to interpret the classification results.
+TASK-2
+SALES PREDICTION USING PYTHON
+1.	Install Required Libraries:
+Make sure you have the required libraries installed. You can do this using pip:
+bash
+
+pip install pandas numpy scikit-learn matplotlib
+2.	Run the Code:
+Execute the sales_prediction.py script in your terminal or IDE:
+bash
+
+python sales_prediction.py
+TASK-3
+UNEMPLOYMENT ANALYSIS WITH PYTHON
+1.	Install Required Libraries:
+Ensure you have the required libraries installed. You can do this using pip:
+base
+pip install pandas matplotlib
+2.	Run the Code:
+Execute the unemployment_analysis.py script in your terminal or IDE:
+bash
+
+python unemployment_analysis.py
